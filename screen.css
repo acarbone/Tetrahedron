@@ -1,0 +1,18 @@
+html, body{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#EEEEE8;
+	font-family:'Open Sans', sans-serif;
+	font-size:16px;
+	line-height:1.35;
+	font-weight:normal;
+	color:#212121;
+}
+
+.wrap-content{
+	max-width:60em;
+	margin:0 auto;
+	text-align:center;
+}
